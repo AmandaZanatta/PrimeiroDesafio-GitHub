@@ -1,0 +1,8 @@
+# Links Úteis Primeiros Passos
+=========
+
+1. [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+
+2. [Comandos pelo ChatGPT](https://www.gitfluence.com)
+
+3. [Guias Gerais do Git](https://git-scm.com/docs/git#_guides)
